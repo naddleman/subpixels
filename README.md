@@ -7,7 +7,7 @@ How it works
 Usage
 -----
 
->python filter.py <imagename>
+>python filter.py \<imagename\>
 
 Details
 -------
